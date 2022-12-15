@@ -1,0 +1,23 @@
+fieldset.ppal{
+    margin: 10%;
+    width: 60%;
+    font-size: 1.25em;
+    background: #e6db74;
+}
+legend {
+    font-weight: bold;
+    font-size: 20px;
+    color:#0d24bd;
+}
+#adivina {
+    background-color: coral;
+}
+body {
+    background-color: bisque;
+}
+.mensaje{
+    border: #0d24bd;
+    margin-left: 50%;
+    color:darkred;
+    background: palegoldenrod;
+}
