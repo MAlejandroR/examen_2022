@@ -28,7 +28,7 @@ class Jugada
 
     }
 
-    public fuction public function __toString(): string
+     public function __toString(): string
 {
     // TODO: Implement __toString() method.
 }

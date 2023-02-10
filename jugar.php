@@ -31,14 +31,17 @@ switch ($opcion){
 <div style="mensaje">
 <?php
 //Aquí, o donde corresponda deberás de aportar a la vista información
-//Y mas acciones que tengas que hacer
+//Y más acciones que tengas qué hacer
 ?>
 </div>
 <fieldset>
     <legend>Opciones del juego</legend>
 <form action="jugar.php" method="post">
     <label for="numero">Inserta el número con el que quieres probar</label>
+    <br />
     <input type="text" name="numero" id="numero">
+    <br />
+
     <input type="submit" value="Jugar" name="submit">
     <input type="submit" value="Volver" name="submit">
     <input type="submit" value="Reiniciar" name="submit">

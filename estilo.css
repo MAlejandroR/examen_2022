@@ -1,4 +1,4 @@
-fieldset.ppal{
+fieldset{
     margin: 10%;
     width: 60%;
     font-size: 1.25em;
@@ -20,4 +20,15 @@ body {
     margin-left: 50%;
     color:darkred;
     background: palegoldenrod;
+}
+input[type=submit]{
+    color:brown;
+    font-size: 1.3em;
+    margin:3px
+}
+input[type=text]{
+    color:blue;
+    font-size: 1.4em;
+    padding:3px
+
 }
